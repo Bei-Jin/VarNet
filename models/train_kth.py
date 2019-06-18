@@ -1,3 +1,6 @@
+"""
+Some codes from https://github.com/rubenvillegas/iclr2017mcnet
+"""
 import cv2
 import sys
 import time
