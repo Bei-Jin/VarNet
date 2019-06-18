@@ -1,3 +1,7 @@
+    
+"""
+Some codes from https://github.com/rubenvillegas/iclr2017mcnet
+"""
 import math
 import numpy as np 
 import tensorflow as tf
