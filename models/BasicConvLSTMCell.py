@@ -1,3 +1,8 @@
+
+"""
+Some codes from https://github.com/rubenvillegas/iclr2017mcnet
+"""
+
 import tensorflow as tf
 
 class BasicConvLSTMCell(object):
